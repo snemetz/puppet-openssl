@@ -1,4 +1,7 @@
 # OpenSSL Puppet Module
+Travis [![Build Status](https://secure.travis-ci.org/snemetz/puppet-openssl.png)](http://travis-ci.org/snemetz/puppet-openssl)
+
+Internal Jenkins [![Build Status](http://cs-jenkins.barnesandnoble.com/view/Puppet/view/Modules/job/Puppet_Module_openssl/badge/icon)](http://cs-jenkins.barnesandnoble.com/view/Puppet/view/Modules/job/Puppet_Module_openssl/)
 
 **This module manages OpenSSL.**
 
